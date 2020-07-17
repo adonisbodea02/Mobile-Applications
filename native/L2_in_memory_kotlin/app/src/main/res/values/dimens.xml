@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defaultTitleSize">30sp</dimen>
+    <dimen name="defaultMarginPadding">24dp</dimen>
+    <dimen name="smallMarginPadding">16dp</dimen>
+    <dimen name="largeMarginPadding">32dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

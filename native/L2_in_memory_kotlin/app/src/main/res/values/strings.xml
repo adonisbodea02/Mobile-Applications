@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MetalHead</string>
+    <string name="clickMe">Hi there</string>
+    <string name="firstTitle">The Sopranos</string>
+    <string name="secondTitle">Boardwalk Empire</string>
+    <string name="hintEditTextBand">Band</string>
+    <string name="hintEditTextColor">Color</string>
+    <string name="hintEditTextPrice">Price</string>
+    <string name="title_activity_tshirt_list">TShirtListActivity</string>
+    <string name="submitButtonText">Submit</string>
+    <string name="deleteButtonText">Delete</string>
+    <string name="lastname">LastName</string>
+    <string name="titleName">MetalHead</string>
+    <string name="sign_out">Sign Out</string>
+</resources>

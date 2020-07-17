@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986776670468",
+    "firebase_url": "https://metalhead-3ee6b.firebaseio.com",
+    "project_id": "metalhead-3ee6b",
+    "storage_bucket": "metalhead-3ee6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986776670468:android:55a0aa45d8c1a16df1c051",
+        "android_client_info": {
+          "package_name": "com.example.firstlaboratory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986776670468-ibekcbjijj5240u1j8h734vobr46lrta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstlaboratory",
+            "certificate_hash": "926bfd53d97cc838b29bc2f9eb46be8f2a70ade7"
+          }
+        },
+        {
+          "client_id": "986776670468-l80su8g2t9vogd659tkjaghflmamah88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLvoapRiaW4NyPSTHALMudorK1m4P_wEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986776670468-l80su8g2t9vogd659tkjaghflmamah88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
